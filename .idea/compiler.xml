@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth_main" target="1.8" />
+      <module name="auth_test" target="1.8" />
+      <module name="chat_main" target="1.8" />
+      <module name="chat_test" target="1.8" />
+      <module name="common_main" target="1.8" />
+      <module name="common_test" target="1.8" />
+      <module name="evaron_server_main" target="1.8" />
+      <module name="evaron_server_test" target="1.8" />
+      <module name="front_main" target="1.8" />
+      <module name="front_test" target="1.8" />
+      <module name="gm_main" target="1.8" />
+      <module name="gm_test" target="1.8" />
+      <module name="space_main" target="1.8" />
+      <module name="space_test" target="1.8" />
+      <module name="storage_main" target="1.8" />
+      <module name="storage_test" target="1.8" />
+      <module name="task_main" target="1.8" />
+      <module name="task_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
