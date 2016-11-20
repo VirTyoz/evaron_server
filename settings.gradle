@@ -1,0 +1,12 @@
+rootProject.name = 'evaron_server'
+include 'front'
+include 'task'
+include 'chat'
+include 'space'
+include 'auth'
+include 'task'
+include 'storage'
+include 'common'
+include 'gm'
+
+
