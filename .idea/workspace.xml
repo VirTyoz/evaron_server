@@ -1,11 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala" line="7" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="951cc0c4-66c5-401f-a7ba-ee7c8e7a4ea5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_twitter_scrooge_core_2_11_4_12_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_stream_2_11_2_4_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_ssl_config_core_2_11_0_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_aeron_aeron_client_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_aeron_aeron_driver_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_6_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_agrona_Agrona_0_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_library_2_12_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalactic_scalactic_2_11_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalatest_scalatest_2_11_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_2_11_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_interpolation_2_11_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_interpolation_macro_2_11_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_22.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_twitter_scrooge_core_2_11_4_10_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_6_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_library_2_11_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalactic_scalactic_2_11_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalatest_scalatest_2_11_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_2_11_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_interpolation_2_11_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_interpolation_macro_2_11_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_21.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_actor_2_11_2_4_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_actor_2_11_2_4_14.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_protobuf_2_11_2_4_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_protobuf_2_11_2_4_14.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_remote_2_11_2_4_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_remote_2_11_2_4_14.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_testkit_2_11_2_4_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_testkit_2_11_2_4_14.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_config_2_11_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_config_2_11_2_5_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_core_2_11_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_core_2_11_2_5_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_test_2_11_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_test_2_11_2_5_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/classes/main/Starter$.class" afterPath="$PROJECT_DIR$/auth/build/classes/main/Starter$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/classes/main/Starter$delayedInit$body.class" afterPath="$PROJECT_DIR$/auth/build/classes/main/Starter$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/auth/build/classes/main/Starter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService$$anonfun$receive$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService$.class" afterPath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService.class" afterPath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Starter$.class" afterPath="$PROJECT_DIR$/build/classes/main/Starter$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Starter$delayedInit$body.class" afterPath="$PROJECT_DIR$/build/classes/main/Starter$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/build/classes/main/Starter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Test$.class" afterPath="$PROJECT_DIR$/build/classes/main/Test$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Test.class" afterPath="$PROJECT_DIR$/build/classes/main/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/client/client.class" afterPath="$PROJECT_DIR$/build/classes/main/client/client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/Starter$.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/Starter$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/Starter$delayedInit$body.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/Starter$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/Starter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$$anonfun$handleSendToAll$1.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$$anonfun$handleSendToAll$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$$anonfun$receive$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService.class" afterPath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToClient$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToClient$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToServer$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToServer$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginFail$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginFail$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginOk$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginOk$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$Ping$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$Ping$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlanetsInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlanetsInfo$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlayOk$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlayOk$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestAuthLogin$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestAuthLogin$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestPlanetsInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestPlanetsInfo$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestServerLogin$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestServerLogin$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Msg.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Msg.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Planet$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Planet$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Planet.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Planet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Player$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Player$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Player.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Player.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/Planets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$getFieldBlobs$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$getFieldBlobs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$write$1.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$write$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Immutable$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Immutable$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Immutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$LazyImmutable.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$LazyImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Proxy$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Proxy$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Proxy.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Proxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$class.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin.class" afterPath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/libs/common.jar" afterPath="$PROJECT_DIR$/common/build/libs/common.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/Starter$.class" afterPath="$PROJECT_DIR$/front/build/classes/main/Starter$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/Starter$delayedInit$body.class" afterPath="$PROJECT_DIR$/front/build/classes/main/Starter$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/front/build/classes/main/Starter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$props$1.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$props$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$receive$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$props$1.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$props$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$receive$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/test/TestTCP.class" afterPath="$PROJECT_DIR$/front/build/classes/test/TestTCP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/libs/front.jar" afterPath="$PROJECT_DIR$/front/build/libs/front.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/Starter$.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/Starter$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/Starter$delayedInit$body.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/Starter$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/Starter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$1$$anonfun$2.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$1$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$1.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$3$$anonfun$4.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$3$$anonfun$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$3.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$receive$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService.class" afterPath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService$$anonfun$receive$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService$.class" afterPath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService.class" afterPath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.directory" afterPath="$PROJECT_DIR$/.directory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_config_1_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_config_1_3_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_3_10_6_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_3_10_6_Final.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_dbcp2_2_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_4_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_thrift_libthrift_0_9_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_thrift_libthrift_0_9_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_joda_joda_convert_1_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_joda_joda_convert_1_8_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_xml_2_11_1_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_xml_2_11_1_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_reflect_2_11_8.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_reflect_2_11_8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_uncommons_maths_uncommons_maths_1_2_2a.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_uncommons_maths_uncommons_maths_1_2_2a.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/auth/auth.iml" afterPath="$PROJECT_DIR$/.idea/modules/auth/auth.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/auth/auth_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/auth/auth_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/auth/auth_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/auth/auth_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/chat/chat.iml" afterPath="$PROJECT_DIR$/.idea/modules/chat/chat.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/chat/chat_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/chat/chat_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/chat/chat_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/chat/chat_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/common/common.iml" afterPath="$PROJECT_DIR$/.idea/modules/common/common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/common/common_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/common/common_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/evaron_server.iml" afterPath="$PROJECT_DIR$/.idea/modules/evaron_server.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/evaron_server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/evaron_server_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/evaron_server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/evaron_server_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/front/front.iml" afterPath="$PROJECT_DIR$/.idea/modules/front/front.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/front/front_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/front/front_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/front/front_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/front/front_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gm/gm.iml" afterPath="$PROJECT_DIR$/.idea/modules/gm/gm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gm/gm_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/gm/gm_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gm/gm_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/gm/gm_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/space/space.iml" afterPath="$PROJECT_DIR$/.idea/modules/space/space.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/space/space_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/space/space_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/space/space_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/space/space_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/storage/storage.iml" afterPath="$PROJECT_DIR$/.idea/modules/storage/storage.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/storage/storage_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/storage/storage_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/storage/storage_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/storage/storage_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/task/task.iml" afterPath="$PROJECT_DIR$/.idea/modules/task/task.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/task/task_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/task/task_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/task/task_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/task/task_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build.gradle" afterPath="$PROJECT_DIR$/auth/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/build/resources/main/application.conf" afterPath="$PROJECT_DIR$/auth/build/resources/main/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/auth/src/main/resources/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/auth/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala" afterPath="$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/application.conf" afterPath="$PROJECT_DIR$/build/resources/main/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/remote_application.conf" afterPath="$PROJECT_DIR$/build/resources/main/remote_application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build.gradle" afterPath="$PROJECT_DIR$/chat/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/build/resources/main/application.conf" afterPath="$PROJECT_DIR$/chat/build/resources/main/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/chat/src/main/resources/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/chat/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala" afterPath="$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build.gradle" afterPath="$PROJECT_DIR$/common/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/tmp/jar/MANIFEST.MF" afterPath="$PROJECT_DIR$/common/build/tmp/jar/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterPath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" afterPath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/core/Case.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/core/Case.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/core/Cmd.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/core/Cmd.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/domain/Planet.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/domain/Planet.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/domain/Player.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/domain/Player.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/ChatToClient.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/ChatToClient.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/ChatToServer.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/ChatToServer.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/LoginFail.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/LoginFail.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/LoginOk.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/LoginOk.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/PacketMSG.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/PacketMSG.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/Planets.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/Planets.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/PlayOk.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/PlayOk.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/RequestAuthLogin.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/RequestAuthLogin.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/RequestPlanetInfo.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/RequestPlanetInfo.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/RequestServerLogin.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/packet/RequestServerLogin.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build.gradle" afterPath="$PROJECT_DIR$/front/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/resources/main/application.conf" afterPath="$PROJECT_DIR$/front/build/resources/main/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/resources/test/application.conf" afterPath="$PROJECT_DIR$/front/build/resources/test/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/scripts/front" afterPath="$PROJECT_DIR$/front/build/scripts/front" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/scripts/front.bat" afterPath="$PROJECT_DIR$/front/build/scripts/front.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/tmp/jar/MANIFEST.MF" afterPath="$PROJECT_DIR$/front/build/tmp/jar/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterPath="$PROJECT_DIR$/front/build/tmp/scala/compilerAnalysis/compileScala.analysis" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" afterPath="$PROJECT_DIR$/front/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/front/src/main/resources/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/front/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala" afterPath="$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala" afterPath="$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/test/scala/TestTCP.scala" afterPath="$PROJECT_DIR$/front/src/test/scala/TestTCP.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gm/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/gm/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gm/src/main/scala/gmservice/GMService.scala" afterPath="$PROJECT_DIR$/gm/src/main/scala/gmservice/GMService.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space/build.gradle" afterPath="$PROJECT_DIR$/space/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space/src/main/scala/spaceservice/SpaceService.scala" afterPath="$PROJECT_DIR$/space/src/main/scala/spaceservice/SpaceService.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space/src/main/scala/spaceservice/System.scala" afterPath="$PROJECT_DIR$/space/src/main/scala/spaceservice/System.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/client/client.java" afterPath="$PROJECT_DIR$/src/main/java/client/client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/src/main/resources/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/remote_application.conf" afterPath="$PROJECT_DIR$/src/main/resources/remote_application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Test.scala" afterPath="$PROJECT_DIR$/src/main/scala/Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/Session_receiveDataTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/Session_receiveDataTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build.gradle" afterPath="$PROJECT_DIR$/storage/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/build/resources/main/application.conf" afterPath="$PROJECT_DIR$/storage/build/resources/main/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/storage/src/main/resources/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/storage/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala" afterPath="$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/build.gradle" afterPath="$PROJECT_DIR$/task/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/build/resources/main/application.conf" afterPath="$PROJECT_DIR$/task/build/resources/main/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/task/src/main/resources/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/task/src/main/scala/Starter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task/src/main/scala/taskservice/TaskService.scala" afterPath="$PROJECT_DIR$/task/src/main/scala/taskservice/TaskService.scala" />
     </list>
     <ignored path="evaron_server.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,34 +460,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestTCP.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#44#73#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Starter.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
+        <entry file="file://$PROJECT_DIR$/auth/src/main/scala/Starter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -152,12 +490,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="2.14" />
+        <entry key="$PROJECT_DIR$" value="3.2.1" />
       </map>
     </option>
     <option name="availableProjects">
@@ -236,6 +574,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'evaron_server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in root project 'evaron_server'." />
@@ -348,11 +691,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in root project 'evaron_server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
@@ -426,6 +764,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':auth'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':auth'." />
@@ -528,11 +871,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':auth'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth" />
                 <option name="name" value="dependencies" />
@@ -606,6 +944,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chat" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':chat'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chat" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':chat'." />
@@ -708,11 +1051,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chat" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':chat'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chat" />
                 <option name="name" value="dependencies" />
@@ -786,6 +1124,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/common" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/common" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':common'." />
@@ -888,11 +1231,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/common" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':common'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/common" />
                 <option name="name" value="dependencies" />
@@ -966,6 +1304,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/front" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':front'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/front" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':front'." />
@@ -1068,11 +1411,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/front" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':front'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/front" />
                 <option name="name" value="dependencies" />
@@ -1146,6 +1484,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gm" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':gm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gm" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':gm'." />
@@ -1248,11 +1591,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gm" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':gm'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gm" />
                 <option name="name" value="dependencies" />
@@ -1326,6 +1664,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/space" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':space'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/space" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':space'." />
@@ -1428,11 +1771,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/space" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':space'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/space" />
                 <option name="name" value="dependencies" />
@@ -1506,6 +1844,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/storage" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':storage'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/storage" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':storage'." />
@@ -1608,11 +1951,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/storage" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':storage'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/storage" />
                 <option name="name" value="dependencies" />
@@ -1686,6 +2024,11 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/task" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':task'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/task" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':task'." />
@@ -1788,11 +2131,6 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/task" />
-                <option name="name" value="installApp" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':task'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/task" />
                 <option name="name" value="dependencies" />
@@ -1848,7 +2186,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="13249057801645" />
+        <entry key="$PROJECT_DIR$" value="13257137960900" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1926,133 +2264,138 @@
               <option name="name" value="task" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/logging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/open-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/testing-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/ui" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/process-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/installation-beacon" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/ide-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/jetty" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/jvm-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/testing-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/src/sonar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-native-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/groovy-all-2.4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-core-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-model-core-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/ant-launcher-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-tooling-api-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-installation-beacon-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-base-services-groovy-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-logging-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-messaging-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-resources-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-open-api-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/ant-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-docs-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-jvm-services-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-ui-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-cli-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-wrapper-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-model-groovy-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-launcher-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-process-services-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/gradle-base-services-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-maven-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-build-init-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-testing-jvm-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-antlr-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-ide-native-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-plugin-use-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-plugin-development-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-platform-play-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-test-kit-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-resources-s3-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-testing-native-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-language-java-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-scala-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-jetty-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-resources-http-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-osgi-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-ear-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-build-comparison-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-sonar-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-ide-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-platform-base-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-language-native-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-language-groovy-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-reporting-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-platform-native-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-tooling-api-builders-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-ivy-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-resources-sftp-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-announce-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-language-scala-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-language-jvm-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-javascript-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-diagnostics-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-testing-base-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-platform-jvm-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-signing-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-jacoco-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-publish-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-code-quality-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-dependency-management-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-ide-play-2.14.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14-all/t7wfomcrmv8dmyii9c9waem8/gradle-2.14/lib/plugins/gradle-plugins-2.14.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/task-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-base-services-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-docs-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-wrapper-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-ui-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-messaging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-launcher-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-jvm-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-process-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-script-kotlin-0.4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-tooling-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-logging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-model-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-installation-beacon-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-base-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-model-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-cli-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-resources-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-open-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-osgi-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-build-comparison-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-jetty-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-s3-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugin-development-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-task-cache-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-publish-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-composite-builds-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-javascript-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-reporting-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-announce-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-test-kit-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-diagnostics-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-jacoco-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-build-init-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugins-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-maven-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-dependency-management-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugin-use-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ear-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-signing-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ivy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-sftp-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-tooling-api-builders-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-antlr-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-code-quality-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-java-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-base-3.2.1.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -2074,36 +2417,29 @@
         <option value="$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala" />
         <option value="$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala" />
         <option value="$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala" />
         <option value="$PROJECT_DIR$/front/src/main/scala/Starter.scala" />
         <option value="$PROJECT_DIR$/front/src/test/resources/application.conf" />
         <option value="$PROJECT_DIR$/front/src/main/resources/application.conf" />
         <option value="$PROJECT_DIR$/front/src/test/scala/TestTCP.scala" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1332" />
-    <option name="height" value="764" />
+    <option name="x" value="-3" />
+    <option name="y" value="312" />
+    <option name="width" value="1342" />
+    <option name="height" value="772" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -2119,17 +2455,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="evaron_server" />
@@ -2145,13 +2475,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="settings.editor.splitter.proportion" value="0.28061718" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -2193,6 +2525,62 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -2218,6 +2606,65 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
@@ -2240,6 +2687,55 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -2256,6 +2752,14 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2268,27 +2772,6 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -2317,6 +2800,15 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
@@ -2382,6 +2874,12 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2410,32 +2908,14 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
       <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -2471,7 +2951,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1474187608101" />
+    <option name="lastUpdateTimestamp" value="1482268089119" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -2499,6 +2979,9 @@
       <workItem from="1479504109717" duration="28000" />
       <workItem from="1479504228838" duration="185000" />
       <workItem from="1479668402372" duration="3603000" />
+      <workItem from="1480534271733" duration="625000" />
+      <workItem from="1482176175781" duration="1729000" />
+      <workItem from="1482267480451" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;repository migration">
       <created>1479669609590</created>
@@ -2531,36 +3014,47 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23642000" />
+    <option name="totallyTimeSpent" value="27231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1332" height="764" extended-state="0" />
+    <frame x="-3" y="312" width="1342" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3338346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3239645" sideWeight="0.505988" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23831071" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731117" sideWeight="0.5078652" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3239645" sideWeight="0.49401197" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22809668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2260479" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731117" sideWeight="0.49213484" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18562874" sideWeight="0.49213484" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3338346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731117" sideWeight="0.5078652" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -2588,8 +3082,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#44#73#0" expanded="false" />
@@ -2597,10 +3091,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#44#73#0" expanded="false" />
@@ -2611,7 +3121,7 @@
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2619,7 +3129,7 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -2627,7 +3137,7 @@
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#44#73#0" expanded="false" />
@@ -2638,7 +3148,7 @@
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2646,15 +3156,26 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#44#73#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#44#73#0" expanded="false" />
@@ -2665,7 +3186,7 @@
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2673,7 +3194,61 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#44#73#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#44#73#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -2681,112 +3256,105 @@
     <entry file="file://$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
-          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+          <caret line="84" column="45" lean-forward="false" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Case.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="0" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" column="0" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gm/src/main/scala/gmservice/GMService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/System.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/SpaceService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <caret line="49" column="7" lean-forward="false" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/scala/packet/ChatToClient.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task/src/main/scala/taskservice/TaskService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="469">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+          <caret line="84" column="45" lean-forward="false" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Case.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="29" column="0" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="29" column="0" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
-          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <caret line="54" column="51" lean-forward="false" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -2794,14 +3362,14 @@
     <entry file="file://$PROJECT_DIR$/front/src/main/resources/application.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="27" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="0">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#44#73#0" expanded="false" />
@@ -2812,19 +3380,70 @@
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="43" column="92" lean-forward="false" selection-start-line="43" selection-start-column="92" selection-end-line="43" selection-end-column="92" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/main/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/main/remote_application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
   <component name="masterDetails">
     <states>
@@ -2900,7 +3519,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: com.twitter:scrooge-core_2.11:4.6.0</last-edited>
+          <last-edited>Gradle: com.twitter:scrooge-core_2.11:4.12.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
