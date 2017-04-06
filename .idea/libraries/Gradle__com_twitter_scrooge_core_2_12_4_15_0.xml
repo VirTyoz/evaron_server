@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:scrooge-core_2.12:4.15.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.12/4.15.0/b925ad69420883f95f5fbe094a78fef07df88f72/scrooge-core_2.12-4.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.12/4.15.0/a9739ace2a220a99e65b7c70bfc654060dbe7733/scrooge-core_2.12-4.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

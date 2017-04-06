@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Gradle 1" modules="task,common,auth,chat,gm,front,storage,evaron_server,space">
+    <profile name="Gradle 1" modules="testbytest,evaron_server,auth,chat,common,front,gm,space,storage,task,web-front">
       <option name="deprecationWarnings" value="true" />
       <option name="uncheckedWarnings" value="true" />
       <parameters>

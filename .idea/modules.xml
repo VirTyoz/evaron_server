@@ -29,6 +29,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task.iml" group="task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task_main.iml" group="task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task/task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/task/task_test.iml" group="task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-front/web-front.iml" filepath="$PROJECT_DIR$/.idea/modules/web-front/web-front.iml" group="web-front" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-front/web-front_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-front/web-front_main.iml" group="web-front" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-front/web-front_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-front/web-front_test.iml" group="web-front" />
     </modules>
   </component>
 </project>
