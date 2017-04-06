@@ -1,5 +1,4 @@
-import akka.actor.{ActorSystem, Props}
-import com.typesafe.config.ConfigFactory
+import akka.actor.ActorSystem
 import tcpfront._
 object Starter extends App {
   //val config = ConfigFactory.load()

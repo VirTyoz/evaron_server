@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/space" />
             <option value="$PROJECT_DIR$/storage" />
             <option value="$PROJECT_DIR$/task" />
+            <option value="$PROJECT_DIR$/web-front" />
           </set>
         </option>
       </GradleProjectSettings>

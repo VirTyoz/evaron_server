@@ -4,7 +4,7 @@ allprojects {
     apply plugin: 'scala'
     apply plugin: 'java'
     apply plugin: 'application'
-    apply plugin: 'idea'
+
 
 
     mainClassName = "Starter"
@@ -14,41 +14,28 @@ allprojects {
         mavenCentral()
     }
 
-
     dependencies {
 
         compile group: 'org.scala-lang', name: 'scala-library', version: '2.12.1'
 
-        compile group: 'com.typesafe.akka', name: 'akka-actor_2.11', version: '2.4.13'
-        compile group: 'com.typesafe.akka', name: 'akka-remote_2.11', version: '2.4.14'
+        compile group: 'com.typesafe.akka', name: 'akka-actor_2.12', version: '2.4.17'
+        compile group: 'com.typesafe.akka', name: 'akka-remote_2.12', version: '2.4.17'
 
-        compile group: 'org.scalikejdbc', name: 'scalikejdbc_2.11', version: '2.5.0'
-        compile group: 'org.scalikejdbc', name: 'scalikejdbc-config_2.11', version: '2.5.0'
+        compile group: 'com.typesafe.akka', name: 'akka-http_2.12', version: '10.0.4'
 
-
-        compile group: 'mysql', name: 'mysql-connector-java', version: '6.0.5'
-
-        compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.22'
-
-        compile group: 'org.apache.thrift', name: 'libthrift', version: '0.9.3'
-
-        compile group: 'com.twitter', name: 'scrooge-core_2.11', version: '4.12.0'
+        compile group: 'org.scalikejdbc', name: 'scalikejdbc_2.12', version: '2.5.1'
+        compile group: 'mysql', name: 'mysql-connector-java', version: '6.0.6'
+        compile group: 'org.scalikejdbc', name: 'scalikejdbc-config_2.12', version: '2.5.1'
 
 
+        compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.24'
 
-        testCompile group: 'org.scalatest', name: 'scalatest_2.11', version: '3.0.1'
-        testCompile group: 'org.scalactic', name: 'scalactic_2.11', version: '3.0.1'
+        testCompile group: 'org.scalatest', name: 'scalatest_2.12', version: '3.0.1'
+        testCompile group: 'org.scalactic', name: 'scalactic_2.12', version: '3.0.1'
+        testCompile group: 'com.typesafe.akka', name: 'akka-testkit_2.11', version: '2.4.17'
 
-        testCompile group: 'com.typesafe.akka', name: 'akka-testkit_2.11', version: '2.4.14'
-
-        testCompile group: 'org.scalikejdbc', name: 'scalikejdbc-test_2.11', version: '2.5.0'
-
-
-    }
-
-
-    task hello << {
-        println 'hello, world хрен'
+        compile group: 'org.apache.thrift', name: 'libthrift', version: '0.10.0'
+        compile group: 'com.twitter', name: 'scrooge-core_2.12', version: '4.15.0'
     }
 
 }

@@ -6,14 +6,22 @@ products:
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$AuthenticatedFailed.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$CommandTask$.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$CommandTask.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$GetPlanetInfoById$.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$GetPlanetInfoById.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$GetPlayerByName$.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$GetPlayerByName.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$GetSystemId$.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$GetSystemId.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$Send$.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$Send.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SendToAll$.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SendToAll.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SomePlanetInfo$.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SomePlanetInfo.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SomePlayer$.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SomePlayer.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SomeSystemId$.class
+   common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case$SomeSystemId.class
    common/src/main/scala/core/Case.scala -> common/build/classes/main/core/Case.class
    common/src/main/scala/core/Cmd.scala -> common/build/classes/main/core/Cmd$.class
    common/src/main/scala/core/Cmd.scala -> common/build/classes/main/core/Cmd$ChatToClient$.class
@@ -28,6 +36,8 @@ products:
    common/src/main/scala/core/Cmd.scala -> common/build/classes/main/core/Cmd$RequestServerLogin$.class
    common/src/main/scala/core/Cmd.scala -> common/build/classes/main/core/Cmd.class
    common/src/main/scala/core/Cmd.scala -> common/build/classes/main/core/Msg.class
+   common/src/main/scala/domain/Planet.scala -> common/build/classes/main/domain/Planet$.class
+   common/src/main/scala/domain/Planet.scala -> common/build/classes/main/domain/Planet.class
    common/src/main/scala/domain/Player.scala -> common/build/classes/main/domain/Player$.class
    common/src/main/scala/domain/Player.scala -> common/build/classes/main/domain/Player.class
    common/src/main/scala/packet/ChatToClient.scala -> common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class
@@ -141,53 +151,55 @@ products:
    common/src/main/scala/packet/RequestServerLogin.scala -> common/build/classes/main/packet/RequestServerLogin$class.class
    common/src/main/scala/packet/RequestServerLogin.scala -> common/build/classes/main/packet/RequestServerLogin.class
 binary dependencies:
-   common/src/main/scala/core/Case.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.5/3735ca1c66965b1daa94a2725f42605accd2f45/akka-actor_2.11-2.4.5.jar
+   common/src/main/scala/core/Case.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.17/73c97f4bc9c0dcd5836ba5c866a9b49ef646d5a7/akka-actor_2.11-2.4.17.jar
    common/src/main/scala/core/Case.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/core/Case.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   common/src/main/scala/core/Case.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
    common/src/main/scala/core/Cmd.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/core/Cmd.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   common/src/main/scala/core/Cmd.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/domain/Planet.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   common/src/main/scala/domain/Planet.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
    common/src/main/scala/domain/Player.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/domain/Player.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/ChatToClient.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/ChatToClient.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/domain/Player.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/ChatToClient.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/ChatToClient.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/ChatToClient.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/ChatToClient.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/ChatToServer.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/ChatToServer.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/ChatToClient.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/ChatToServer.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/ChatToServer.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/ChatToServer.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/ChatToServer.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/LoginFail.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/LoginFail.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/ChatToServer.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/LoginFail.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/LoginFail.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/LoginFail.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/LoginFail.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/LoginOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/LoginOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/LoginFail.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/LoginOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/LoginOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/LoginOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/LoginOk.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/PacketMSG.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/PacketMSG.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/LoginOk.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/PacketMSG.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/PacketMSG.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/PacketMSG.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/PacketMSG.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/Planets.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/Planets.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/PacketMSG.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/Planets.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/Planets.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/Planets.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/Planets.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/PlayOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/PlayOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/Planets.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/PlayOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/PlayOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/PlayOk.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/PlayOk.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/RequestAuthLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/RequestAuthLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/PlayOk.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/RequestAuthLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/RequestAuthLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/RequestAuthLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/RequestAuthLogin.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/RequestPlanetInfo.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/RequestPlanetInfo.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/RequestAuthLogin.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/RequestPlanetInfo.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/RequestPlanetInfo.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/RequestPlanetInfo.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/RequestPlanetInfo.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   common/src/main/scala/packet/RequestServerLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.6.0/84b86c2e082aba6e0c780b3c76281703b891a2c8/scrooge-core_2.11-4.6.0.jar
-   common/src/main/scala/packet/RequestServerLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/8625e8f9b6f49b881fa5fd143172c2833df1ce47/libthrift-0.9.3.jar
+   common/src/main/scala/packet/RequestPlanetInfo.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+   common/src/main/scala/packet/RequestServerLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/com.twitter/scrooge-core_2.11/4.15.0/876912dd18246e3a143e904bac70bae1106e8f71/scrooge-core_2.11-4.15.0.jar
+   common/src/main/scala/packet/RequestServerLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.10.0/3201c5a6d85d3f030bae5a520abaaf81ef7df037/libthrift-0.10.0.jar
    common/src/main/scala/packet/RequestServerLogin.scala -> /home/nyanta/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
-   common/src/main/scala/packet/RequestServerLogin.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   common/src/main/scala/packet/RequestServerLogin.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
 source dependencies:
    common/src/main/scala/core/Case.scala -> common/src/main/scala/core/Cmd.scala
    common/src/main/scala/core/Case.scala -> common/src/main/scala/domain/Player.scala
@@ -201,14 +213,22 @@ class names:
    common/src/main/scala/core/Case.scala -> core.Case$AuthenticatedFailed$
    common/src/main/scala/core/Case.scala -> core.Case$CommandTask
    common/src/main/scala/core/Case.scala -> core.Case$CommandTask$
+   common/src/main/scala/core/Case.scala -> core.Case$GetPlanetInfoById
+   common/src/main/scala/core/Case.scala -> core.Case$GetPlanetInfoById$
    common/src/main/scala/core/Case.scala -> core.Case$GetPlayerByName
    common/src/main/scala/core/Case.scala -> core.Case$GetPlayerByName$
+   common/src/main/scala/core/Case.scala -> core.Case$GetSystemId
+   common/src/main/scala/core/Case.scala -> core.Case$GetSystemId$
    common/src/main/scala/core/Case.scala -> core.Case$Send
    common/src/main/scala/core/Case.scala -> core.Case$Send$
    common/src/main/scala/core/Case.scala -> core.Case$SendToAll
    common/src/main/scala/core/Case.scala -> core.Case$SendToAll$
+   common/src/main/scala/core/Case.scala -> core.Case$SomePlanetInfo
+   common/src/main/scala/core/Case.scala -> core.Case$SomePlanetInfo$
    common/src/main/scala/core/Case.scala -> core.Case$SomePlayer
    common/src/main/scala/core/Case.scala -> core.Case$SomePlayer$
+   common/src/main/scala/core/Case.scala -> core.Case$SomeSystemId
+   common/src/main/scala/core/Case.scala -> core.Case$SomeSystemId$
    common/src/main/scala/core/Cmd.scala -> core.Cmd
    common/src/main/scala/core/Cmd.scala -> core.Cmd$
    common/src/main/scala/core/Cmd.scala -> core.Cmd$ChatToClient$
@@ -222,6 +242,8 @@ class names:
    common/src/main/scala/core/Cmd.scala -> core.Cmd$RequestPlanetsInfo$
    common/src/main/scala/core/Cmd.scala -> core.Cmd$RequestServerLogin$
    common/src/main/scala/core/Cmd.scala -> core.Msg
+   common/src/main/scala/domain/Planet.scala -> domain.Planet
+   common/src/main/scala/domain/Planet.scala -> domain.Planet$
    common/src/main/scala/domain/Player.scala -> domain.Player
    common/src/main/scala/domain/Player.scala -> domain.Player$
    common/src/main/scala/packet/ChatToClient.scala -> packet.ChatToClient

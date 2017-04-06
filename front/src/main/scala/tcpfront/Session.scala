@@ -3,17 +3,13 @@
   */
 package tcpfront
 
-import java.io.{ByteArrayInputStream, ByteArrayOutputStream}
 import java.net.InetSocketAddress
-import java.nio.ByteBuffer
+
 import akka.actor._
 import akka.io.Tcp
 import akka.util.ByteString
 import core.Case.Send
-import core.{Case, Msg}
-import org.apache.thrift.protocol.TBinaryProtocol
-import org.apache.thrift.transport.TIOStreamTransport
-import packet.PacketMSG
+import core.Msg
 
 
 
@@ -60,18 +56,18 @@ class Session(val id: Long,
 
 
   def receiveData(data: ByteString): Unit = {
-      //жисериализация пакета 1lvl
+     /* //жисериализация пакета 1lvl
     val packet = {
       val stream = new ByteArrayInputStream(data.toArray)
       PacketMSG.decode(new TBinaryProtocol(new TIOStreamTransport(stream)))
     }
       //отправка даных в сервис задач
     taskService ! Case.CommandTask(self, packet.id, packet.data.array())
-    //taskService ! TaskService.CommandTask(self,packet)
+    //taskService ! TaskService.CommandTask(self,packet)*/
   }
 
   def sendData(cmd: Msg, data: Array[Byte]): Unit = {
-      //Упаковка данных в пакет 2lvl
+     /* //Упаковка данных в пакет 2lvl
     val packet = PacketMSG(id = cmd.code.toShort, data = ByteBuffer.wrap(data))
 
     val bytes = {
@@ -80,7 +76,7 @@ class Session(val id: Long,
       out.toByteArray
     }
     log.info("send to client{}"+"code"+cmd.code.toShort, toString)
-    connect ! Write(ByteString(bytes))
+    connect ! Write(ByteString(bytes))*/
   }
 
 
