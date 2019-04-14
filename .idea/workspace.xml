@@ -5,304 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="951cc0c4-66c5-401f-a7ba-ee7c8e7a4ea5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_twitter_scrooge_core_2_11_4_12_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_actor_2_11_2_4_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_protobuf_2_11_2_4_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_remote_2_11_2_4_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_stream_2_11_2_4_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_akka_akka_testkit_2_11_2_4_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_ssl_config_core_2_11_0_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_aeron_aeron_client_1_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_aeron_aeron_driver_1_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_3_10_6_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_6_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_agrona_Agrona_0_9_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_thrift_libthrift_0_9_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_joda_joda_convert_1_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_modules_scala_xml_2_11_1_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_library_2_12_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_reflect_2_11_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalactic_scalactic_2_11_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalatest_scalatest_2_11_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_2_11_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_config_2_11_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_core_2_11_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_interpolation_2_11_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_interpolation_macro_2_11_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scalikejdbc_scalikejdbc_test_2_11_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/classes/main/Starter$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/classes/main/Starter$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/classes/main/Starter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/classes/main/authservice/AuthService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/auth/build/resources/main/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/Starter$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/Starter$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/Starter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/Test$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/client/client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/remote_application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/Starter$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/Starter$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/Starter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$$anonfun$handleSendToAll$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/classes/main/chatservice/ChatService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat/build/resources/main/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/ChatToServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginFail.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/LoginOk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PacketMSG.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/Planets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/PlayOk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestAuthLogin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestPlanetInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$getFieldBlobs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$getFieldBlobs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$$anonfun$write$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Immutable$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Immutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$LazyImmutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Proxy$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/build/classes/main/packet/RequestServerLogin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/ChatToClient.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/ChatToServer.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/LoginFail.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/LoginOk.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/PacketMSG.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/Planets.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/PlayOk.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/RequestAuthLogin.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/RequestPlanetInfo.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/common/src/main/scala/packet/RequestServerLogin.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$props$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$props$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/classes/test/TestTCP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/libs/front.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/resources/test/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/scripts/front" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/scripts/front.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/Starter$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/Starter$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/Starter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$1$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$3$$anonfun$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/classes/main/storagesrvice/StorageService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/build/resources/main/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task/build/classes/main/taskservice/TaskService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task/build/resources/main/application.conf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Authenticate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$AuthenticatedFailed.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$CommandTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlanetInfoById.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetPlayerByName.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$GetSystemId.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$Send.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SendToAll.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlanetInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomePlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case$SomeSystemId.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Case.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Case.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToClient$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToClient$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToServer$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$ChatToServer$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginFail$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginFail$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginOk$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$LoginOk$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$Ping$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$Ping$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlanetsInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlanetsInfo$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlayOk$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$PlayOk$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestAuthLogin$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestAuthLogin$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestPlanetsInfo$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestPlanetsInfo$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestServerLogin$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd$RequestServerLogin$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Cmd.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Cmd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/core/Msg.class" afterPath="$PROJECT_DIR$/common/build/classes/main/core/Msg.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Planet$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Planet$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Planet.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Planet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Player$.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Player$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/classes/main/domain/Player.class" afterPath="$PROJECT_DIR$/common/build/classes/main/domain/Player.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/libs/common.jar" afterPath="$PROJECT_DIR$/common/build/libs/common.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/Starter$.class" afterPath="$PROJECT_DIR$/front/build/classes/main/Starter$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/Starter$delayedInit$body.class" afterPath="$PROJECT_DIR$/front/build/classes/main/Starter$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/front/build/classes/main/Starter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$$anonfun$receive$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/AkkaNetServerTCP.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$receive$1.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$$anonfun$receive$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session.class" afterPath="$PROJECT_DIR$/front/build/classes/main/tcpfront/Session.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/auth/auth_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/auth/auth_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/auth/auth_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/auth/auth_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/chat/chat_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/chat/chat_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/chat/chat_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/chat/chat_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/common/common_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/common/common_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/evaron_server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/evaron_server_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/evaron_server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/evaron_server_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/front/front_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/front/front_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/front/front_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/front/front_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gm/gm_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/gm/gm_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gm/gm_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/gm/gm_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/space/space_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/space/space_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/space/space_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/space/space_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/storage/storage_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/storage/storage_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/storage/storage_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/storage/storage_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/task/task_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/task/task_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/task/task_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/task/task_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/tmp/jar/MANIFEST.MF" afterPath="$PROJECT_DIR$/common/build/tmp/jar/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterPath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" afterPath="$PROJECT_DIR$/common/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/main/scala/Starter.scala" afterPath="$PROJECT_DIR$/front/src/main/scala/Starter.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala" afterPath="$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_library_2_12_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_scala_lang_scala_library_2_12_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/front/front_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/front/front_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/web-front/web-front_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/web-front/web-front_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-front/src/main/scala/Starter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/web-front/src/main/scala/Starter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-front/src/main/scala/webfront/AkkaNetServerWeb.scala" beforeDir="false" afterPath="$PROJECT_DIR$/web-front/src/main/scala/webfront/AkkaNetServerWeb.scala" afterDir="false" />
     </list>
     <ignored path="evaron_server.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -342,7 +51,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -383,202 +91,13 @@
         </task>
         <projects_view>
           <tree_state>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Run Configurations" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.RunConfigurationsNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="verification" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="other" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="help" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="documentation" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="distribution" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="build" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="application" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":web-front" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="evaron_server" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-            </PATH>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="evaron_server" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
           </tree_state>
         </projects_view>
       </state>
@@ -589,36 +108,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="System.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/System.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="23" column="85" lean-forward="false" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
-              <folding />
+            <state relative-caret-position="-153">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AkkaNetServerWeb.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web-front/src/main/scala/webfront/AkkaNetServerWeb.scala">
+      <file leaf-file-name="Case.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Case.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#18#64#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Starter.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-front/src/main/scala/Starter.scala">
+      <file leaf-file-name="Cmd.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Cmd.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -631,6 +143,14 @@
         <option value="Scala Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>text</find>
+      <find>closed</find>
+      <find>sender</find>
+      <find>Received</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -2483,7 +2003,19 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="14840178826897" />
+        <entry key="$PROJECT_DIR$" value="17819489007000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/auth/build.gradle" value="2976284249" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="523949348" />
+        <entry key="$PROJECT_DIR$/chat/build.gradle" value="2976284249" />
+        <entry key="$PROJECT_DIR$/common/build.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/front/build.gradle" value="2976284249" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="829777938" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3901005983" />
+        <entry key="$PROJECT_DIR$/space/build.gradle" value="2976284249" />
+        <entry key="$PROJECT_DIR$/storage/build.gradle" value="2976284249" />
+        <entry key="$PROJECT_DIR$/task/build.gradle" value="2976284249" />
+        <entry key="$PROJECT_DIR$/web-front/build.gradle" value="2976284249" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2719,9 +2251,6 @@
         </entry>
       </map>
     </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -2730,17 +2259,19 @@
         <option value="$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala" />
         <option value="$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala" />
         <option value="$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala" />
-        <option value="$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala" />
         <option value="$PROJECT_DIR$/front/src/main/scala/Starter.scala" />
         <option value="$PROJECT_DIR$/front/src/test/resources/application.conf" />
         <option value="$PROJECT_DIR$/front/src/main/resources/application.conf" />
         <option value="$PROJECT_DIR$/front/src/test/scala/TestTCP.scala" />
         <option value="$PROJECT_DIR$/auth/src/main/scala/Starter.scala" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/web-front/src/main/scala/Starter.scala" />
+        <option value="$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala" />
+        <option value="$PROJECT_DIR$/web-front/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala" />
+        <option value="$PROJECT_DIR$/web-front/src/main/scala/webfront/Session.scala" />
         <option value="$PROJECT_DIR$/web-front/src/main/scala/webfront/AkkaNetServerWeb.scala" />
       </list>
     </option>
@@ -2752,417 +2283,116 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="302" />
+    <option name="x" value="232" />
+    <option name="y" value="195" />
     <option name="width" value="1350" />
     <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webfront" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AkkaNetServerWeb.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tcpfront" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Session.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tcpfront" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaron_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="evaron_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evaron_server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="evaron_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evaron_server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="evaron_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evaron_server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evaron_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evaron_server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="evaron_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evaron_server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evaron_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evaron_server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-    <property name="settings.editor.splitter.proportion" value="0.28061718" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.splitter.proportion" value="0.28061718" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web-front/src/main/resources" />
       <recent name="$PROJECT_DIR$/web-front" />
       <recent name="$PROJECT_DIR$/front/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Starter">
-    <configuration default="false" name="evaron_server:web-front [projects]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/web-front" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="projects" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Starter (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration default="false" name="evaron_server:web-front [properties]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/web-front" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="properties" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+    <configuration name="Starter (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Starter" />
+      <module name="web-front_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration default="false" name="evaron_server:web-front [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/web-front" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="tasks" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+    <configuration name="Starter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Starter" />
+      <module name="front_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration default="false" name="evaron_server:web-front [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="evaron_server:web-front [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/web-front" />
@@ -3178,57 +2408,88 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
     </configuration>
-    <configuration default="false" name="Starter" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Starter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="evaron_server:web-front [properties]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/web-front" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="properties" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="evaron_server:web-front [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/web-front" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="front_main" />
-      <envs />
-      <method />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="task" />
+      <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -3257,129 +2518,6 @@
       </Profilers>
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="task" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -3392,6 +2530,8 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
       <classRegexps />
       <testRegexps />
       <envs />
@@ -3409,37 +2549,11 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
       <classRegexps />
       <testRegexps />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
@@ -3454,25 +2568,27 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
       <classRegexps />
       <testRegexps />
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [projects]" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [properties]" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [tasks]" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [check]" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Starter" />
+    <list>
+      <item itemvalue="Gradle.evaron_server:web-front [properties]" />
+      <item itemvalue="Gradle.evaron_server:web-front [tasks]" />
+      <item itemvalue="Gradle.evaron_server:web-front [check]" />
+      <item itemvalue="Application.Starter" />
+      <item itemvalue="Application.Starter (1)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Starter" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [check]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [tasks]" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [properties]" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.evaron_server:web-front [projects]" />
+      <list>
+        <item itemvalue="Application.Starter (1)" />
+        <item itemvalue="Application.Starter" />
+        <item itemvalue="Gradle.evaron_server:web-front [check]" />
+        <item itemvalue="Gradle.evaron_server:web-front [tasks]" />
+        <item itemvalue="Gradle.evaron_server:web-front [properties]" />
       </list>
     </recent_temporary>
   </component>
@@ -3481,9 +2597,6 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -3551,41 +2664,73 @@
     <option name="totallyTimeSpent" value="28992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="302" width="1350" height="785" extended-state="6" />
-    <editor active="true" />
+    <frame x="232" y="195" width="1350" height="785" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33283803" sideWeight="0.4790419" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23774146" sideWeight="0.52395207" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23774146" sideWeight="0.4760479" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3239645" sideWeight="0.49101797" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2260479" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18562874" sideWeight="0.49213484" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731117" sideWeight="0.5078652" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5299401" side_tool="true" weight="0.24229075" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32880846" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47005987" weight="0.23774146" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49101797" weight="0.3239645" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16020864" />
+      <window_info anchor="right" id="Gradle" order="7" sideWeight="0.49213484" weight="0.10879285" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.46107784" weight="0.33283803" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5078652" side_tool="true" visible="true" weight="0.18731117" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="4" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47005987" weight="0.23774146" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49101797" weight="0.3239645" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5299401" side_tool="true" visible="true" weight="0.24229075" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.46107784" weight="0.33283803" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32880846" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Gradle" order="7" sideWeight="0.49213484" visible="true" weight="0.10879285" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16020864" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5078652" side_tool="true" visible="true" weight="0.18731117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -3606,285 +2751,118 @@
     <option name="LAST_COMMIT_MESSAGE" value="&#10;repository migration" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
-          <caret line="84" column="45" lean-forward="false" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Case.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" selection-start-line="28" selection-start-column="24" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gm/src/main/scala/gmservice/GMService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/System.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/SpaceService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="49" column="7" lean-forward="false" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task/src/main/scala/taskservice/TaskService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chat/src/main/scala/chatservice/ChatService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="84" column="45" lean-forward="false" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Case.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="54" column="51" lean-forward="false" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/resources/application.conf" />
-    <entry file="file://$PROJECT_DIR$/front/src/main/resources/application.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front/src/test/scala/TestTCP.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
+        <state>
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -3892,92 +2870,166 @@
     <entry file="file://$PROJECT_DIR$/build/resources/main/remote_application.conf" />
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/src/main/scala/Starter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web-front/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/scala/packet/ChatToClient.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="486" column="40" lean-forward="false" selection-start-line="486" selection-start-column="40" selection-end-line="486" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="78" column="40" lean-forward="false" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
-          <folding>
-            <element signature="e#67#100#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/packet/ChatToClient.scala" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="23" column="85" lean-forward="false" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-front/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.12/2.4.17/4633154311941f0db62a2418a31f49513a505e43/akka-stream_2.12-2.4.17.jar!/akka/stream/scaladsl/Flow.class" />
     <entry file="file://$PROJECT_DIR$/web-front/src/main/scala/Starter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-front/src/main/scala/webfront/Session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-front/src/main/scala/webfront/AkkaNetServerWeb.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#18#64#0" expanded="true" />
-          </folding>
+        <state>
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/AkkaNetServerTCP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main/scala/tcpfront/Session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/src/main/scala/Starter.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/src/main/scala/taskservice/TaskService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/src/main/scala/authservice/AuthService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/src/main/scala/storagesrvice/StorageService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/domain/Player.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/SpaceService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/domain/Planet.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Case.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/core/Cmd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/space/src/main/scala/spaceservice/System.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
